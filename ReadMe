@@ -1,0 +1,3 @@
+functions.js contain the required functions for the assignment
+data.json contains the sample dataStore, you can change it anyway you want
+driver.js just calls the functions to show their functionality. By default all three are called, to see the fuctionality of each function comment the rest.
